@@ -1,0 +1,16 @@
+site_name: Bastian Politycki
+docs_dir: src
+theme:
+  name: material
+  favicon: images/favicon.ico
+  features:
+    - navigation.top
+  palette:
+    primary: purple
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Bpolitycki
+    - icon: material/email
+      link: mailto:bastian.politycki@unisg.ch
+copyright: Updated 11.2024 &copy; Bastian Politycki
