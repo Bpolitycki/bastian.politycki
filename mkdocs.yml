@@ -13,4 +13,9 @@ extra:
       link: https://github.com/Bpolitycki
     - icon: material/email
       link: mailto:bastian.politycki@unisg.ch
-copyright: Updated 11.2024 &copy; Bastian Politycki
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: date
+      locale: de
+copyright: "&copy; Bastian Politycki"

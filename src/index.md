@@ -5,27 +5,52 @@ hide:
 
 # Personal Website
 
-Bastian Politycki is an Associate Researcher at the University of St. Gallen, where he is responsible for the digital humanities activities of the [Swiss Law Sources (SLS)](https://www.ssrq-sds-fds.ch/en/home/). He studied Editing and Documentology at the University of Wuppertal. While working as a research assistant in the graduate training group Document–Text–Edition, he began a PhD project focused on the critical (audio) edition of Paul Wuehr's radio play So eine Freiheit. He joined the SLS project in October 2021. Additionally, he serves as a lecturer at the University of Wuppertal in the field of Digital Humanities, teaching courses such as Introduction to Programming and the Practical Application of NLP for Humanities Scholars.
+Bastian Politycki is a researcher in the field of Digital Humanities, holding positions at two universities. Since October 2021, he has been an Associate Researcher at the University of St. Gallen within the [Swiss Law Sources (SLS)](https://www.ssrq-sds-fds.ch/en/home/) project. Additionally, as of November 2025, he serves as a Research Associate at the [Chair for Digital Humanities](https://www.geschichte.uni-wuppertal.de/de/lehrgebiete/digital-humanities/) at the University of Wuppertal. He studied Editing and Documentology at the University of Wuppertal, where he successfully defended his PhD in November 2025. His dissertation is dedicated to the critical (audio) edition of Paul Wuehr's radio play *So eine Freiheit*.
+
+
 
 
 ## Curriculum Vitae
 
 Bastian Politycki M.A.<br>
-Law Sources Foundation of the Swiss Lawyers Society
+GitHub [Bpolitycki](https://github.com/Bpolitycki)<br>
+ORCID [0000-0002-6308-2424](https://orcid.org/0000-0002-6308-2424)
 
 Swiss Law Sources<br>
 ℅ Prof. Dr. Lukas Gschwend<br>
 University of St. Gallen<br>
 Tigerbergstr. 21<br>
-CH-9000 St. Gallen
-Switzerland
+CH-9000 St. Gallen<br>
+Switzerland<br>
+[bastian.politycki@unisg.ch](mailto:bastian.politycki@unisg.ch)
+
+University of Wuppertal<br>
+Chair for Digital Humanities<br>
+Office: <br>
+Laurentiusstraße 21<br>
+LS.04.12<br>
+D-42103 Wuppertal<br>
+Germany<br>
+[politycki@uni-wuppertal.de](mailto:politycki@uni-wuppertal.de)
 
 ### Current positions and affiliations
+
+**University of Wuppertal**, Wuppertal, D<br>
+Associated Researcher, November 2025-present
 
 **University of St. Gallen**, St. Gallen, CH<br>
 Associated Researcher, October 2021-present
 
 ### Education
+
+**University of Wuppertal**, Wuppertal, DE<br>
+Doctoral Studies in German Studies, 2019–2025<br>
+*Thesis successfully defended in November 2025*<br>
+*Title:* Paul Wühr: *So eine Freiheit*. Digitale genetisch-kritische Audioedition – Konzeptstudie und Teiledition<br>
+*Publication forthcoming (2026)*
+<!--*Grade:* summa cum laude<br>-->
+
+
 
 **University of Wuppertal**, Wuppertal, DE<br>
 Master of Arts, Editing and Documentology, 2018<br>
@@ -36,46 +61,35 @@ Bachelor of Arts, German Studies and Social Sciences, 2016
 
 ### Languages
 
-**German**, Native
+**German** (Native)<br>
+**English** (Advanced B2/C1)
 
-**English**, Advanced (B2/C1)
+### Technical Skills
 
-### Technical skills
+<h4>Data & Scripting</h4>
 
-<h4>Programming languages</h4>
+- **Python** (Advanced; focus on NLP and Data Processing)
+- **XML-Stack** (Advanced; TEI-XML, XSLT, XQuery)
+- **JavaScript / TypeScript** (Proficient)
+- *Basic knowledge:* OCaml, Perl, Bash
 
-- **Python**, Advanced
-- **XSLT**, Advanced
-- **XQuery**, Advanced
-- **JavaScript/TypeScript**, Fluent
-- OCaml, Basic
-- Perl, Basic
-- various other languages from time to time (e.g. shell scripting)
+<h4>Web Development</h4>
 
-<h4>Stylesheet and Markup Languages</h4>
+- **Frameworks:** Svelte, Vue.js
+- **Backend:** FastAPI
+- **Styling:** TailwindCSS, Bulma, CSS/SCSS
+-  **Markup:** HTML5
 
-- CSS / SCSS
-- TEI-XML
-- HTML
+<h4>Infrastructure & Tools</h4>
+- **DevOps:** Linux Server Administration, Ansible
+- **Virtualization:** Docker
+- **Version Control:** Git (GitHub Actions, CI/CD), SVN
+- **Typesetting:** LaTeX
 
-<h4>Webframeworks/-libraries</h4>
-
-- Svelte
-- Vue.js
-- FastAPI
-- jQuery
-- TailwindCSS
-- Bulma
-
-<h4>Various</h4>
-
-- Linux-Server administration and automation with Ansible
-- Virtualization with Docker
-- Version control with Git and SVN
-- CI/CD with GitHub Actions
-- Print composition with LaTeX
 
 ### Teaching
+
+Politycki, Bastian: *Einführung in die Programmierung und Datenanalyse für Geisteswissenschaftler:innen mit Python*. Seminar (Übung), University of Wuppertal, Winter Term 2025/26.
 
 Politycki, Bastian: *Einführung in die Programmierung und Datenanalyse für Geisteswissenschaftler:innen mit Python*. Seminar (Übung), University of Wuppertal, Summer Term 2024.
 
@@ -105,7 +119,7 @@ Lukas, Wolfgang / Machwitz, Dana / Politycki, Bastian: *[Pörtner & Wühr](https
 
 ## Talks & Presentations
 
-<h2>2024</h2>
+<h3>2024</h3>
 
 Politycki, Bastian / Sonder, Christian: *On a solid ground. Building software for a 120-year-old research project applying modern engineering practices*. Digital History Switzerland 2024, University of Basel, 12.-13.09.2024.
 
@@ -114,7 +128,7 @@ Politycki, Bastian: *Anwendung generativer KI zur Digitalisierung gedruckter Edi
 Politycki, Bastian / Sonder, Christian / Sutter, Pascale: *Datenschätze heben. Ein Bericht zur Digitalisierung der Sammlung Schweizerischer Rechtsquellen (SSRQ)*. Edition als Transformation
 Bedingungen, Formen, Interessen und Ziele editorischer Präsentationen. Die zwanzigste internationale Plenartagung der Arbeitsgemeinschaft für germanistische Edition, University of Wuppertal, 21.–24.02.2024.
 
-<h2>2023</h2>
+<h3>2023</h3>
 
 Politycki, Bastian: *Genetische Erschließung und digitale Edition des O-Ton-Nachlasses von Paul Wühr*. KOOP-LITERA Deutschland, University of Wuppertal, 14.-16.06.2023.
 
@@ -122,29 +136,29 @@ Politycki, Bastian: *Swiss Law Sources – Lessons learned from using TEIPublish
 
 Politycki, Bastian: *Textgenese zwischen Schreiben und Hören – digitale Hörspieledition am Beispiel von Paul Wührs So eine Freiheit*. »Hört, hört!« – Zum Umgang mit Audio in den DH, Workshop University of Wuppertal, 10.02.2023 / 24.02.2023.
 
-<h2>2022</h2>
+<h3>2022</h3>
 
 Politycki, Bastian / Sutter, Pascale: *Werkstattpräsentation der Sammlung Schweizerischer Rechtsquellen*. Edition als Vermittlung. Die neunzehnte internationale Plenartagung der Arbeitsgemeinschaft für germanistische Edition, University of Klagenfurt, 21.–24.09.2022.
 
-<h2>2021</h2>
+<h3>2021</h3>
 
 Politycki, Bastian: *Guter Münchner Stimmen-Salat*. ,sah ich mich rufen hören’. Stimme intermedial, polyphon, digital, University of Klagenfurt, 03.-05.02.2021.
 
-<h2>2020</h2>
+<h3>2020</h3>
 
 Politycki, Bastian: *Dann kamen die Frauen. Randnotizen zur Genese und Edition von Paul Wührs So eine Freiheit*. Wissenschaftlicher Workshop O-Ton-Hörspiel, Kiel University, 16.11.2019.
 
-<h2>2018</h2>
+<h3>2018</h3>
 
 Politycki, Bastian: *So eine Freiheit (1973/1992): Fassungsvergleich im Rahmen einer digitalen Edition*. Kritische Audio-Edition, interdisciplinary Conference, University of Wuppertal, 12.-14.07.2018.
 
 ## Publications
 
-<h2>Edited volumes</h2>
+<h3>Edited volumes</h3>
 
 Fröhlich, Niklas / Politycki, Bastian / Schäfer, Dirk / Sonder, Annkathrin (ed.): *Der Text und seine (Re)Produktion*. Beihefte zu editio, vol. 55, Berlin/Boston, 2023 \[[doi.org/10.1515/9783111006147](https://doi.org/10.1515/9783111006147)\].
 
-<h2>Articles</h2>
+<h3>Articles</h3>
 
 Politycki, Bastian / Sonder, Christian: *On a solid ground. Building software for a 120-year-old research project applying modern engineering practices*. In: Digital History Switzerland 2024, [Book of Abstracts](https://digihistch24.github.io/book-of-abstracts/book-of-abstracts.html), 2024.
 
@@ -154,11 +168,11 @@ Lukas, Wolfgang / Machwitz, Dana / Politycki, Bastian: *Pörtner & Wühr: Spuren
 
 Politycki, Bastian: *Wolfgang Koeppen Jugend. Rezension der textgenetischen Edition*. In: RIDE 13, 2020 [[doi.org/10.18716/ride.a.13.2](https://doi.org/10.18716/ride.a.13.2)].
 
-<h2>Various</h2>
+<h3>Various</h3>
 
 Dittrich, Andreas / Politycki, Bastian: *Tagungsbericht Kanonbildung und Editionspraxis. Interdisziplinäre Tagung an der Bergischen Universität Wuppertal*. In: Zeitschrift für Germanistik, 2/2020, p. 470.
 
-<h2>Software / Datasets</h2>
+<h3>Software / Datasets</h3>
 
 Together with the collagues of the Swiss Law Sources project: *Collection of Swiss Law Sources Online – TEI-XML Data*. 2024 [[doi.org/10.5281/zenodo.10878757](https://doi.org/10.5281/zenodo.10878757).]
 
